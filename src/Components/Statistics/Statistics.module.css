@@ -1,6 +1,6 @@
 
 .section {
-    width: 500px;
+    width: 350px;
 }
 
 .title {
@@ -11,13 +11,14 @@
     letter-spacing: 0.36px;
     text-align: center;
     margin: 0;
-    background-color: #908c8c;
+    background-color: #41b3d6;
 }
 
 .list {
     display: flex;
     justify-content: center;
     margin: 0;
+    padding: 0;
 }
 
 .item {
@@ -27,7 +28,7 @@
     align-items: center;
     width: 70px;
     height: 70px;
-    background-color: #686767;
+    background-color: #8dc6db;
 
 }
 
